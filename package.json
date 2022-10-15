@@ -9,7 +9,7 @@
     "css:w": "npm run css && node-sass src/scss/estilo.scss -w dist/css/app.css"
   },
   "keywords": [],
-  "author": "Daniel Tapias Morales <tapmorales@gmail.com> (tapmorales.com)",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
